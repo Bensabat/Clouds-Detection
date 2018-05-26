@@ -8,7 +8,7 @@ This project is about clouds detection in optical satellite images, developed wi
 The folder contain:
 
 * an EXE folder containing your .bmp images files to analyzed
-* an OBJ folder containing
+* an OBJ folder containing .o files
 * an SRC forder containing
      * sources files
      * Makefile
